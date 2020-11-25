@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apuntes2</string>
+    <string name="btn_next">Siguiente</string>
+    <string name="titulo_segunda_activity">Segunda Actividad</string>
+</resources>
